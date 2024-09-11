@@ -1,6 +1,6 @@
 ## 🧩 Opti.Addons project
 
-The idea of the Opti.Addons is to have extended, improved, or new features that are not available in the standard Optimizely (a.k.a. EPiServer) CMS or Commerce.
+The idea of the Opti.Addons is to have extended, improved, and/or new features that are not available in the standard Optimizely (a.k.a. EPiServer) CMS or Commerce.
 
 🙋‍♀️ Features that are:
 
