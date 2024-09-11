@@ -5,7 +5,7 @@ The idea of the Opti.Addons is to have extended, improved, and/or new features t
 🙋‍♀️ Features that are:
 
 * free and open source
-* small
+* slim
 * easy to use
 * easy to maintain
 * well-documented
