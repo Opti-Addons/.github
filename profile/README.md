@@ -4,12 +4,13 @@ The idea of the Opti.Addons is to have extended, improved, or new features that 
 
 🙋‍♀️ Features that are:
 
+* free and open source
 * small
 * easy to use
 * easy to maintain
 * well-documented
 * versionable
 * forkable
-* deployed to NuGet.org
+* deployed to the NuGet.org
 
 🌈 Please feel to contribute by adding a feature, bugfix, suggestion, or leave a thank you note!
